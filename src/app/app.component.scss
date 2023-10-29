@@ -1,0 +1,71 @@
+a {
+  text-decoration: none;
+}
+
+.input-box {
+  padding: 10px;
+  font-size: 15px;
+  width: 500px;
+}
+
+.date-time {
+  margin: 10px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.container {
+  width: 100vw;
+  // border: 2px solid red;
+  text-align: center;
+}
+
+.copy-to-clipboard {
+  background-color: rgb(20, 20, 141);
+  color: white;
+  font-size: 12px;
+  width: 70px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  position: absolute;
+  top: 8px;
+  right: -50px;
+}
+
+.input-container1 {
+  position: relative;
+  margin: auto;
+  width: 500px;
+  height: 50px;
+}
+
+.input-container2 {
+  position: relative;
+  margin: auto;
+  border: 1px solid grey;
+  width: 500px;
+  height: 50px;
+}
+
+.label {
+  font-weight: 400;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18px;
+}
+
+.year-input {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.details {
+  margin: 10px;
+}
+
+.date-time-details {
+  display: flex;
+}
